@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JcVAFjTW_dODMWcmKScYvapQNXiQez4w/view?usp=sharing](https://drive.google.com/file/d/1JcVAFjTW_dODMWcmKScYvapQNXiQez4w/view?usp=sharing)
 
-- ⚡ Fun fact **I love to play new games.**
+- ⚡ Fun fact **I love to play games.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
