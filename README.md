@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building [Kognie](https://kognie.com/)
 
-- 🌱 I’m currently learning **Dockers**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [flowcv.me/arya-sarkar](flowcv.me/arya-sarkar)
 
