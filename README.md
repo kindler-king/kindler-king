@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://kindler-king.medium.com/](https://kindler-king.medium.com/)
 
-- 💬 Passionate about **Python, Machine Learning, Computer Vision and NLP**
+- 💬 Passionate about **Python, LLMs, Machine Learning, Computer Vision and NLP**
 
 - 📫 How to reach me **aryasarkarwork@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JcVAFjTW_dODMWcmKScYvapQNXiQez4w/view?usp=sharing](https://drive.google.com/file/d/1JcVAFjTW_dODMWcmKScYvapQNXiQez4w/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uUUS8-ojPFfZqMLVqqUtCrYzMtcJu3KH/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play games.**
 
