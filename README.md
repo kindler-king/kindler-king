@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building [Kognie](https://kognie.com/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Release Engineering**
 
 - 👨‍💻 All of my projects are available at [flowcv.me/arya-sarkar](flowcv.me/arya-sarkar)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aryasarkarwork@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uUUS8-ojPFfZqMLVqqUtCrYzMtcJu3KH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19tgMNZwSikO0hG9mfUDR_ItUrzMmif3v/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play games.**
 
