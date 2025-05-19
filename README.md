@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently building [Kognie](https://kognie.com/)
 
-- 🌱 I’m currently learning **Release Engineering**
-
-- 👨‍💻 All of my projects are available at [flowcv.me/arya-sarkar](flowcv.me/arya-sarkar)
+- 🌱 I’m currently learning **AWS & CI/CD**
 
 - 📝 I regularly write articles on [https://kindler-king.medium.com/](https://kindler-king.medium.com/)
 
